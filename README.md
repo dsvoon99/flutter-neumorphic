@@ -16,3 +16,7 @@
 
 1. Shadows is a tone darker than background (So to get shadow, mix the background color with a little bit of black using Color.lerp)
 2. Lights are a tone lighter than the background (So to get lights, mix the background color with a little bit of white using Color.lerp)
+
+## Examples:
+
+1. You can find it in lib/main.dart.
