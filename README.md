@@ -6,7 +6,7 @@
     - Color of surface should be the same as the background color (which will them be overriden by Gradient that mixes
     the background color with white and black)
 2. Edge of the surface
-    - Implemented using 2 Box Shadows from Decoration property, one with lights and one with shadows according to your preferred source of light.
+    - Implemented using 2 Box Shadows from Decoration property, one with lights and one with shadows and position them according to your preferred source of light using Offset.
     - Essential Property of box shadow: blurRadius (double) and offset (in x and y using Offset class)
 3. Gradient of the surface
     - Can be either Concave or Convex
